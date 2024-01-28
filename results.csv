@@ -1,0 +1,45 @@
+Model: RandomForestClassifier
+Sampling Method: Simple, Accuracy: 0.9935483870967742
+Empty dataset encountered during systematic sampling.
+Sampling Method: Stratified, Accuracy: 0.9870967741935484
+Sampling Method: Bootstrap, Accuracy: 0.9917355371900827
+Cross-Validation Scores: [0.98709677 0.98709677 0.99350649 0.98701299 0.98701299]
+Mean CV Score: 0.9883452031839128
+
+
+Model: SVC
+Sampling Method: Simple, Accuracy: 0.9935483870967742
+Empty dataset encountered during systematic sampling.
+Sampling Method: Stratified, Accuracy: 0.9870967741935484
+Sampling Method: Bootstrap, Accuracy: 0.9917355371900827
+Cross-Validation Scores: [0.98709677 0.98709677 0.99350649 0.98701299 0.98701299]
+Mean CV Score: 0.9883452031839128
+
+
+Model: LogisticRegression
+Sampling Method: Simple, Accuracy: 0.9935483870967742
+Empty dataset encountered during systematic sampling.
+Sampling Method: Stratified, Accuracy: 0.9870967741935484
+Sampling Method: Bootstrap, Accuracy: 0.9807162534435262
+Cross-Validation Scores: [0.98064516 0.98064516 0.98051948 0.98701299 0.98701299]
+Mean CV Score: 0.9831671554252199
+
+
+Model: XGBClassifier
+Sampling Method: Simple, Accuracy: 0.9935483870967742
+Empty dataset encountered during systematic sampling.
+Sampling Method: Stratified, Accuracy: 0.9870967741935484
+Sampling Method: Bootstrap, Accuracy: 0.9862258953168044
+Cross-Validation Scores: [0.98709677 0.98709677 0.98701299 0.98701299 0.97402597]
+Mean CV Score: 0.984449099287809
+
+
+Model: DecisionTreeClassifier
+Sampling Method: Simple, Accuracy: 0.9870967741935484
+Empty dataset encountered during systematic sampling.
+Sampling Method: Stratified, Accuracy: 0.9741935483870968
+Sampling Method: Bootstrap, Accuracy: 0.9421487603305785
+Cross-Validation Scores: [0.97419355 0.98709677 0.96103896 0.98051948 0.04545455]
+Mean CV Score: 0.7896606619187264
+
+
