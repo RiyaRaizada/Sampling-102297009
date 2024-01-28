@@ -7,10 +7,17 @@ Comparison of 5 samples with 5 sampling techniques as per their accuracy.
 5 models used are:
  Logistic Regression,
  Decision Tree Classifier,
- Random Forest Classifier,
- Gradient Boosting Classifier,
+ Random Forest Classifier, 
+ XGB Classifier,
  Support Vector Classifier
 
+
+5 techniques used are:
+ Simple,
+ Systematic,
+ Stratified,
+ Bootstrap,
+ Cross-validation
 
 Balancing the Dataset Random Under Sampling is employed from the imbalanced-learn library to address the class imbalance. This technique randomly removes instances from the majority class to create a more balanced distribution.
 
